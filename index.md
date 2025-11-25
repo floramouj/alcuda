@@ -67,19 +67,20 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 
 
+<hr>
 
+<!-- LEFT LOGO -->
+<div style="float: left; margin-top: 20px;">
+  <img src="assets/left_logo.png" alt="Left Logo" style="height: 70px;">
+</div>
 
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td style="text-align: left; border: none;">
-      <img src="assets/left_logo.png" alt="Left Logo" style="height: 70px;">
-    </td>
+<!-- RIGHT LOGO -->
+<div style="float: right; margin-top: 20px;">
+  <img src="assets/right_logo.png" alt="Right Logo" style="height: 70px;">
+</div>
 
-    <td style="text-align: right !important; border: none;">
-      <img src="assets/right_logo.png" alt="Right Logo" style="height: 70px;">
-    </td>
-  </tr>
-</table>
+<!-- CLEAR THE FLOATS -->
+<div style="clear: both;"></div>
 
 
 
