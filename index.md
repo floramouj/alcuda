@@ -76,7 +76,7 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 <!-- RIGHT LOGO -->
 <div style="float: right; margin-top: 20px;">
-  <img src="img_LeapLogoParticles.png" alt="Right Logo" style="height: 100px;">
+  <img src="img_LeapLogoParticles.png" alt="Right Logo" style="height: 120px;">
 </div>
 
 <!-- CLEAR THE FLOATS -->
