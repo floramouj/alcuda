@@ -67,7 +67,7 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 
 
-<hr>
+
 
 <!-- LEFT LOGO -->
 <div style="float: left; margin-top: 20px;">
