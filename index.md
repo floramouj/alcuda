@@ -12,7 +12,6 @@ This page provides access to:
 - the **image-level craving and valence ratings (M and SD) and metadata** (CSV)
 - the **image files** (ZIP archive)
 
----
 
 ## 🔗 Downloads
 
@@ -22,7 +21,6 @@ This page provides access to:
 - 🖼️ **All images (ZIP)**  
   👉 [Download image archive](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
 
----
 
 # Further Details
 
