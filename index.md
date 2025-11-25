@@ -74,7 +74,6 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
     <td align="left">
       <img src="uzh_logo.svg" alt="Left Logo" height="70">
     </td>
-
     <!-- RIGHT LOGO -->
     <td align="right">
       <img src="img_LeapLogoParticles.png" alt="Right Logo" height="70">
