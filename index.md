@@ -17,7 +17,7 @@ This page provides access to:
 ## 🔗 Downloads
 
 - 📄 **Ratings & metadata (CSV)**  
-  [`alcuda_image_ratings.csv`](./alcuda_image_ratings.csv)
+  [`nektar_image_ratings.csv`](./nektar_image_ratings.csv)
 
 - 🖼️ **All images (ZIP)**  
   👉 [Download image archive](PASTE_ZIP_LINK_HERE)
