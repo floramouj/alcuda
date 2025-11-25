@@ -20,10 +20,8 @@ This page provides access to:
   [`nektar_image_ratings.csv`](./nektar_image_ratings.csv)
 
 - 🖼️ **All images (ZIP)**  
-  👉 [Download image archive](PASTE_ZIP_LINK_HERE)
+  👉 [Download image archive]([PASTE_ZIP_LINK_HERE](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip))
 
-> Replace `PASTE_ZIP_LINK_HERE` with the link from your GitHub Release,  
-> e.g. `https://github.com/floramouj/alcuda/releases/download/v1.0.0/alcuda_images.zip`.
 
 ---
 
