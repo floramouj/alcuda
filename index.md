@@ -69,7 +69,7 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 <div align="center">
   <img src="Presentation1.png" alt="Nektar Logo" width="150">
 </div>
-
+ 
 
 
 
