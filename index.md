@@ -72,6 +72,6 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 
 <div align="center">
-  <img src="uzh_logo_svg" alt="uzh" width="200">
+  <img src="uzh_logo.svg" alt="uzh" width="200">
 </div>
 
