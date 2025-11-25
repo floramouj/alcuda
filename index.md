@@ -71,12 +71,12 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 <!-- LEFT LOGO -->
 <div style="float: left; margin-top: 20px;">
-  <img src="assets/left_logo.png" alt="Left Logo" style="height: 70px;">
+  <img src="uzh-logo.png" alt="Left Logo" style="height: 70px;">
 </div>
 
 <!-- RIGHT LOGO -->
 <div style="float: right; margin-top: 20px;">
-  <img src="assets/right_logo.png" alt="Right Logo" style="height: 70px;">
+  <img src="img_LeapLogoParticles.png" alt="Right Logo" style="height: 70px;">
 </div>
 
 <!-- CLEAR THE FLOATS -->
