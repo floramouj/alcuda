@@ -66,18 +66,21 @@ A link to the published article will be added once available. The Nektar Alcohol
 Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.uzh.ch). Further, we are happy to include any additional ratings from your own studies in the here presented overall ratings.
 
 
+
+
+
 <table width="100%" style="border: none;">
   <tr style="border: none;">
-    <!-- LEFT LOGO -->
     <td style="text-align: left; border: none;">
-      <img src="uzh-logo.jpg" alt="Left Logo" style="height: 100px;">
+      <img src="assets/left_logo.png" alt="Left Logo" style="height: 70px;">
     </td>
 
-    <!-- RIGHT LOGO -->
     <td style="text-align: right !important; border: none;">
-      <img src="assets/mg_LeapLogoParticles.png" alt="Right Logo" style="height: 110px;">
+      <img src="assets/right_logo.png" alt="Right Logo" style="height: 70px;">
     </td>
   </tr>
 </table>
+
+
 
 
