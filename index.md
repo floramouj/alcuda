@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="logo.png" alt="Nektar Logo" width="150">
+</div>
 
 
 # Nektar Alcohol Database 
