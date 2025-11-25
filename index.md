@@ -22,38 +22,6 @@ This page provides access to:
 - 🖼️ **All images (ZIP)**  
   👉 [Download image archive](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
 
-<h2>🔗 Downloads</h2>
-
-<a href="./nektar_image_ratings.csv" style="
-    display: inline-block;
-    background-color: #0366d6;
-    color: white;
-    padding: 10px 18px;
-    margin: 8px 0;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-">
-📄 Ratings & metadata (CSV)
-</a>
-
-<br><br>
-
-<a href="https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip" style="
-    display: inline-block;
-    background-color: #0366d6;
-    color: white;
-    padding: 10px 18px;
-    margin: 8px 0;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-">
-🖼️ Download image archive (ZIP)
-</a>
-
-
-
 ---
 
 ## Further Details
