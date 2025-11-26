@@ -65,6 +65,9 @@ A link to the published article will be added once available. The Nektar Alcohol
 ## Contact 
 Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.uzh.ch). Further, we are happy to include any additional ratings from your own studies in the here presented overall ratings.
 
+## Acknowledgments
+Work on "Targeting Glutamatergic Neurotransmission in Alcohol Use Disorder: Investigating Ketamine and Neurofeedback as Combined Therapeutic Interventions" is supported by Wellcome Leap as part of the Untangling Addiction Program.
+
 
 <div align="center">
   <img src="img_LeapLogoParticles.png" alt="leap" width="200">
